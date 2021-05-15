@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Max437575
-- 👀 I’m interested in python, javascript and java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in python, c++, Web Development and game Development
+- 🌱 I’m currently learning OpenGL
 
 <!---
 Max437575/Max437575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
