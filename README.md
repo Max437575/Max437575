@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Max437575
-- 👀 I’m interested in python, c++, Web Development and game Development
+- 👀 I’m interested in python, rust, Web Development and game Development
 - 🌱 I’m currently learning OpenGL
 
 <!---
