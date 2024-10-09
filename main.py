@@ -1,23 +1,5 @@
-def iota():
-    iota.count+=1
-    return iota.count
-iota.count = -1
-
-TOK_FUN = iota()
-TOK_LPAREN = iota()
-TOK_RPAREN = iota()
-TOK_COLON = iota()
-TOK_STR = iota()
-TOK_NUM = iota()
-TOK_IDENT = iota()
-TOK_COMMA = iota()
-TOK_LCURLY = iota()
-TOK_RCURLY = iota()
-TOK_RETURN = iota()
-TOK_MUL = iota()
-TOK_SEMI = iota()
-TOK_ASSIGN = iota()
-TOK_LET = iota()
+from parser import parse
+from tokens import *
 
 KEYWORD_TABLE = [
     {"type": TOK_FUN, "word": "fun"},
@@ -52,7 +34,7 @@ class Token:
         self.value = value
 
     def __str__(self):
-        return f"{self.type}: {self.value}"
+        return f"{token_type2str(self.type)}        {self.value}"
 
 def lex(src):
     num_lines = 0
@@ -113,11 +95,11 @@ def lex(src):
         cur+=1
         continue
 
-    for token in tokens:
-        print(token)
+    return tokens
         
 with open("main.w", "r") as fd:
-    lex(fd.read())
+    tokens = lex(fd.read())
+    parse(tokens)
 
 with open("out.wasm", "w") as fd:
     fd.write("yas")
