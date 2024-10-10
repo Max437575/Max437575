@@ -7,7 +7,7 @@ fun main() {
     let a, b = square(seven);
 }
 
-class Player {
+struct Player {
     health: i32;
     mana: i32;
 
