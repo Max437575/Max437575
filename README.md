@@ -15,6 +15,6 @@ Sur moi🥖🇫🇷
 - Ungbläubiger (tot mir ig)
 - he, she, it das S muss mit
 - ständig unterwegs auf dem Information Super-Highway
-- glaube nicht an garbage collection, generics, Klassen o.ä. (nur feinstes C99 so wie gott es wollte)
+- glaube nicht an garbage collection, generics, inheritance o.ä. (nur feinstes C99 so wie gott es wollte)
 - linker als die Bullizei erlaubt
 - sehr talentiert beim Befingern sowie Blasen von Flöten
