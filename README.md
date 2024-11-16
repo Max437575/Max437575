@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 Sur moi🥖🇫🇷
 - Erfinder des Automobils
-- Spitzel für das den Tschechischen Ostblock
+- Spitzel für die BRD GmbH
 - twinkige Schwulette 😩👉👈
 - stolzer Verfechter des vereinten Proletariats 🚩🚩
 - Ungbläubiger (tot mir ig)
@@ -17,4 +17,4 @@ Sur moi🥖🇫🇷
 - ständig unterwegs auf dem Information Super-Highway
 - glaube nicht an garbage collection, generics, Klassen o.ä. (nur feinstes C99 so wie gott es wollte)
 - linker als die Bullizei erlaubt
-- sehr talentiert beim Befingern und Blasen von Flöten
+- sehr talentiert beim Befingern sowie Blasen von Flöten
